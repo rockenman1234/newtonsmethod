@@ -1,7 +1,7 @@
 # newtonsmethod
 A simple math program written in pyhton, to demonsrate Newton's Method of finding roots.
 
-*Created for Dr. Christopher Raridan's Math 1501 Class at Clayton State University.*
+*Created for Dr. Christopher Raridan's Mathematics Research Project, at Clayton State University.*
 
 ## Description
 This is a simple program written that provides roots of user defined functions using Newton's Method of finding roots.
