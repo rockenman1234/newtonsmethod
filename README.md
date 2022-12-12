@@ -8,13 +8,13 @@ This is a simple program written that provides roots of user defined functions u
 
 ## New for Version 2.0!
 
+- Codebase overhaul!
 - Added a welcome message
 - Added a check for a negative derivative, with a break if the derivative is 0
 - Switched from using a user defined derivative function, to a calculated derivate value using the limit definition of the derivative
 - Added an interation counter
 - Cleaned up the code 
 - Added much needed documentation
-- Codebase overhaul!
 
 
 ## How to Run
